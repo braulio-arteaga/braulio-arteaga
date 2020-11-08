@@ -7,7 +7,7 @@ A su vez, quiero mostar el uso de data pública peruana en proyectos sencillos. 
 
 ## 📫 Contacto
 
- [Linkedin](https://www.linkedin.com/in/braulioarteaga/detail/background-image/)   |   [Facebook](https://www.facebook.com/braulio.arteaga.393/)   |    [Twitter](https://twitter.com/BraulioArt23)
+ [Linkedin](https://www.linkedin.com/in/braulioarteaga/)   |   [Facebook](https://www.facebook.com/braulio.arteaga.393/)   |    [Twitter](https://twitter.com/BraulioArt23)
 
 ## 💡 Proyecto
 
