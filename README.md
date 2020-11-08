@@ -7,13 +7,13 @@ A su vez, quiero mostar el uso de data pública peruana en proyectos sencillos. 
 
 ## 📫 Contacto
 
- [Linkedin]((https://www.linkedin.com/in/braulioarteaga/detail/background-image/)| [Facebook] (https://www.facebook.com/braulio.arteaga.393/) | [Twitter] (https://twitter.com/BraulioArt23)
+ [Linkedin](https://www.linkedin.com/in/braulioarteaga/detail/background-image/)| [Facebook](https://www.facebook.com/braulio.arteaga.393/)| [Twitter](https://twitter.com/BraulioArt23)
 
 ## 💡 Proyecto
 
 - [**La Rotonda Blg**](https://www.facebook.com/larotonda.blog/): Proyecto académico conformado por estudiantes de la Facultad de Economía de la Universidad Nacional Mayor de San Marcos. Con la como finalidad proporcionar un espacio y herramientas para que estudiantes se desarrollen en los distintos campos académicos de la economía. En específico: mediante artículos de opinión, talleres académico y entrevistas con egresados. 
 
-## 📚 Tech Articles and Talks 
+## 📚 Artículos
 
 ### Economía Conductual
 
@@ -24,7 +24,7 @@ A su vez, quiero mostar el uso de data pública peruana en proyectos sencillos. 
 
 - Próximamente
  
-## 💻 Open Source Work Stats
+## 💻 Estadística | Proyectos de Github
 
 ![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=BArteagaCode&show_icons=true)
 
