@@ -15,8 +15,14 @@ A su vez, quiero mostar el uso de data pública peruana en proyectos sencillos. 
 
 ## 📚 Tech Articles and Talks 
 
-- [**Employment Beyond Intent: How Behavioral Science Can Ease The Job Search During COVID-19**] (https://thedecisionlab.com/insights/development/employment-beyond-intent-how-behavioral-science-can-ease-the-job-search-during-covid-19/)
-- [**La Economía conductual: El aliado invisible contra el COVID-19**] (https://larotondablog.wixsite.com/larotonda/post/la-econom%C3%ADa-conductual-el-aliado-invisible-contra-el-covid-19)
+### Economía Conductual
+
+- [**Employment Beyond Intent: How Behavioral Science Can Ease The Job Search During COVID-19**](https://thedecisionlab.com/insights/development/employment-beyond-intent-how-behavioral-science-can-ease-the-job-search-during-covid-19/)
+- [**La Economía conductual: El aliado invisible contra el COVID-19**](https://larotondablog.wixsite.com/larotonda/post/la-econom%C3%ADa-conductual-el-aliado-invisible-contra-el-covid-19)
+
+### Ciencia de datos
+
+- Próximamente
  
 ## 💻 Open Source Work Stats
 
