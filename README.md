@@ -26,6 +26,6 @@ A su vez, quiero mostar el uso de data pública peruana en proyectos sencillos. 
  
 ## 💻 Estadísticas | Proyectos de Github
 
-![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=BArteagaCode&show_icons=true)
+![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=braulio-arteaga&show_icons=true)
 
 
