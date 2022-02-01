@@ -1,7 +1,6 @@
 ## 👋 Introducción
 
-Hola visitante, soy **Braulio Arteaga Lescano**. Egresado de economía que busca aplicar y fomentar el uso de la *Ciencia de los Datos* y la *Economía Conductual*, en las **Políticas Públicas**. 
-Interesado en mostar el uso de data pública peruana en proyectos útiles y así brindar insumos para futuras investigaciones.
+Hola visitante, soy **Braulio Arteaga Lescano**. Egresado de economía que busca fomentar el uso de la *Ciencia de los Datos* y la *Economía Conductual*, en las **Políticas Públicas**. Interesado en ofrecer recursos útiles al sector público/academia/estudiantes mediante Web Scraping, Shinny, entre otros. 
 
 ¿Buscas lo mismo que yo? Te invito a seguirme.
 
