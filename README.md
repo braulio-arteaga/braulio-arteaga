@@ -14,12 +14,12 @@ Hola visitante, soy **Braulio Arteaga Lescano**. Egresado de economía que busca
 
 ## 📚 Artículos
 
-### Economía Conductual
+### Behavioral economics
 
 - [**Employment Beyond Intent: How Behavioral Science Can Ease The Job Search During COVID-19**](https://thedecisionlab.com/insights/development/employment-beyond-intent-how-behavioral-science-can-ease-the-job-search-during-covid-19/)
 - [**La Economía Conductual: El aliado invisible contra el COVID-19**](https://larotondablog.wixsite.com/larotonda/post/la-econom%C3%ADa-conductual-el-aliado-invisible-contra-el-covid-19)
 
-### Ciencia de datos
+### Data science
 
 - Próximamente
  
