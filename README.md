@@ -1,29 +1,25 @@
-## 👋 Introducción
+## 👋 Introduction
 
-Hola visitante, soy **Braulio Arteaga Lescano**. Egresado de economía que busca fomentar el uso de la *Ciencia de los Datos* y la *Economía Conductual*, en las **Políticas Públicas**. Interesado en ofrecer recursos útiles al sector público/academia/estudiantes mediante Web Scraping, Shinny, entre otros. 
+Hello, visitor! I'm **Braulio Arteaga**, an economist interested in **applied microeconomics**, data science, and behavioral economics. My hobby is to provide **useful resources** for the public sector, academia and students through tools like Web Scraping, Shiny, and more. 
 
-¿Buscas lo mismo que yo? Te invito a seguirme.
+¿Do you share the same interests? I invite you to follow 
 
-## 📫 Contacto
+## 📫 Contact
 
- [Linkedin](https://www.linkedin.com/in/braulioarteaga/)   |   [Facebook](https://www.facebook.com/braulio.arteaga.393/)   |    [Twitter](https://twitter.com/BraulioArt23)
+ [Linkedin](https://www.linkedin.com/in/braulioarteaga/)   |   [Twitter](https://twitter.com/BraulioArt23) |   [Facebook](https://www.facebook.com/braulio.arteaga.393/) 
 
-## 💡 Proyecto
+## 💡 Projects
 
-- [**La Rotonda Blog**](https://www.facebook.com/larotonda.blog/): Proyecto académico conformado por estudiantes de la Facultad de Economía de la Universidad Nacional Mayor de San Marcos. Cuya finalidad es proporcionar un espacio y herramientas para que estudiantes se desarrollen en los distintos campos académicos de la economía. A través de: artículos de opinión, talleres académico y entrevistas con egresados. 
+- [**La Rotonda Blog**](https://www.facebook.com/larotonda.blog/): An academic project comprised of economics students from the **National University of San Marcos**. Our goal is to offer a platform and resources for students to thrive in various academic realms of economics. We have produced opinion articles, academic workshops and alumni interviews.
+- [**Orientación Económica**](https://www.facebook.com/orientacioneconomicaperu): An academic organization comprised of economics students from more than **16 public universities in Perú**, aiming to create a dialogue platform with alumni who can mentor economics students in professional topics through panel discussions and workshops.
 
-## 📚 Artículos
+## 📚 Blog posts
 
-### Behavioral economics
-
-- [**Employment Beyond Intent: How Behavioral Science Can Ease The Job Search During COVID-19**](https://thedecisionlab.com/insights/development/employment-beyond-intent-how-behavioral-science-can-ease-the-job-search-during-covid-19/)
-- [**La Economía Conductual: El aliado invisible contra el COVID-19**](https://larotondablog.wixsite.com/larotonda/post/la-econom%C3%ADa-conductual-el-aliado-invisible-contra-el-covid-19)
-
-### Data science
-
-- Próximamente
+- [**Employment Beyond Intent: How Behavioral Science Can Ease The Job Search During COVID-19**](https://thedecisionlab.com/insights/development/employment-beyond-intent-how-behavioral-science-can-ease-the-job-search-during-covid-19/) 
+- [**La Economía Conductual: El aliado invisible contra el COVID-19**](https://larotondablog.wixsite.com/larotonda/post/la-econom%C3%ADa-conductual-el-aliado-invisible-contra-el-covid-19) [in Spanish]
+- [**Transformación digital: ¿Un desafío para los jóvenes servidores públicos?**](https://impacta.pe/post/transformaci%C3%B3n-digital-un-desaf%C3%ADo-para-los-j%C3%B3venes-servidores-p%C3%BAblicos?) [in Spanish]
  
-## 💻 Estadísticas | Proyectos de Github
+## 💻 Statistics | Github projects
 
 ![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=braulio-arteaga&show_icons=true)
 
