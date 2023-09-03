@@ -6,9 +6,7 @@ Hello, visitor! I'm **Braulio Arteaga**, an economist interested in **applied mi
 
 ## 📫 Contact
 
- [Linkedin](https://www.linkedin.com/in/braulioarteaga/)   |   [Twitter](https://twitter.com/BraulioArt23) |   [Facebook](https://www.facebook.com/braulio.arteaga.393/) 
-
-## 💡 Projects
+ [Linkedin](https://www.linkedin.com/in/braulioarteaga/)   |   [Twitter](https://twitter.com/BraulioArt23)
 
 - [**La Rotonda Blog**](https://www.facebook.com/larotonda.blog/): An academic project comprised of economics students from the **National University of San Marcos**. Our goal is to offer a platform and resources for students to thrive in various academic realms of economics. We have produced opinion articles, academic workshops and alumni interviews.
 - [**Orientación Económica**](https://www.facebook.com/orientacioneconomicaperu): An academic organization comprised of economics students from more than **16 public universities in Perú**, aiming to create a dialogue platform with alumni who can mentor economics students in professional topics through panel discussions and workshops.
