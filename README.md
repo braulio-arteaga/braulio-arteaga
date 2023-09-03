@@ -8,7 +8,7 @@ Hello, visitor! I'm **Braulio Arteaga**, an economist interested in **applied mi
 
 Write me to my email marden.arteaga@unmsm.edu.pe
 
-## 💡 Proyecto
+## 💡 Projects
 
 - [**La Rotonda Blog**](https://www.facebook.com/larotonda.blog/): An academic project comprised of economics students from the **National University of San Marcos**. Our goal is to offer a platform and resources for students to thrive in various academic realms of economics. We have produced opinion articles, academic workshops and alumni interviews.
 - [**Orientación Económica**](https://www.facebook.com/orientacioneconomicaperu): An academic organization comprised of economics students from more than **16 public universities in Perú**, aiming to create a dialogue platform with alumni who can mentor economics students in professional topics through panel discussions and workshops.
